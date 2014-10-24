@@ -1,4 +1,6 @@
 udacity-portfolio
 =================
 
-Project 1 for Udacity Front End Developer Nano-degree
+ 
+
+This repository houses the files required to complete Project 1 for the Udacity Front End Developer Nano-degree.
